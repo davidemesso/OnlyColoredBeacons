@@ -10,4 +10,4 @@ You can also play with colors and have a colored beam that disappears after some
 
 ### How to install
 
-Just put the main folder inside your resourcepacks folder in .minecraft, and the pack will appear in game menu.
+Just put the main folder or the zip inside your resourcepacks folder in .minecraft, and the pack will appear in game menu.
